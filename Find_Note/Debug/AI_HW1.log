@@ -1,0 +1,8 @@
+﻿  function.c
+c:\users\cheolhwang\desktop\wch\c project\ai_hw1\ai_hw1\function.c(48): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\cheolhwang\desktop\wch\c project\ai_hw1\ai_hw1\function.c(56): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\cheolhwang\desktop\wch\c project\ai_hw1\ai_hw1\function.c(10): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\cheolhwang\desktop\wch\c project\ai_hw1\ai_hw1\function.c(91): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\cheolhwang\desktop\wch\c project\ai_hw1\ai_hw1\function.c(82): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\cheolhwang\desktop\wch\c project\ai_hw1\ai_hw1\function.c(87): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  AI_HW1.vcxproj -> C:\Users\CheolHwang\Desktop\WCH\C Project\AI_HW1\Debug\AI_HW1.exe
