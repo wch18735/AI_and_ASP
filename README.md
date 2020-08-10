@@ -15,7 +15,7 @@
 ### CONTENT
 
 1. **Orientation**
-2. **DSP preview**
+2. **DSP review**
 3. **Fundamental artificial theory**
 4. **Neural network theory and Utilization technique**
 5. **Speech signal expression technique**
