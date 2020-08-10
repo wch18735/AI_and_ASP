@@ -1,0 +1,5 @@
+﻿  SGD.c
+c:\users\cheolhwang\desktop\wch\c project\ai_hw2\ai_hw2\sgd.c(25): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\cheolhwang\desktop\wch\c project\ai_hw2\ai_hw2\sgd.c(52): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\cheolhwang\desktop\wch\c project\ai_hw2\ai_hw2\sgd.c(19): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  AI_HW2.vcxproj -> C:\Users\CheolHwang\Desktop\WCH\C Project\AI_HW2\Debug\AI_HW2.exe
