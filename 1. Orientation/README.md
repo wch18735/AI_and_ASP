@@ -88,5 +88,31 @@
 ### Speech recognition and Synthesis
 ![캡처](https://user-images.githubusercontent.com/49026408/89809449-87d92400-db76-11ea-8cae-a0b3a04c819a.JPG)
 
+### Speaker Verification and Identification
+- Verification  
+  To verify person by extracting individual unique information in speech signal. It's called voice password or bio signal verification
+- Identification  
+  To search specific person in mixed audio signal. It's used as voice ID or voice tag. Also, it's applied to search scene or index in movie or video
 
+### Music information analysis
+- Content based music search  
+  Music characteristics, for example melody or rythms, would be ingredient of searching music optimized to user's demand. Also, Query-by-humming or Query-by-short-audio are possible. And Audio genre classification is more getting exact
 
+### Speech and Audio Coding
+- Technology that reduce data amount for storage or transfer.  
+  The change from analog signal to digital signal is core of core technology for digital wireless mobile communication and portable device  
+  
+![캡처](https://user-images.githubusercontent.com/49026408/89812430-18196800-db7b-11ea-9be4-78c9049825aa.JPG)
+- Current research trend  
+  All sound is processed by integrated method. Also, multi-channel sound, high quality with low bit audio are the research topic.
+- International Institute selects standard for codec
+  PCM, mp3, EVRC, AMR, AAC, USAC, etc. But, there are also `de facto standard`
+
+### Others
+- 3D Audio / Stereo sound
+- Object based audio broadcasting
+- Noise elimination
+- Signal restoration
+- Sound type classification
+- Music theraphy
+- Music equipment
