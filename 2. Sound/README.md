@@ -30,7 +30,7 @@ Wavelength describes literally a length or distance between same point to point 
 
 Period which has a concept of time that complete one cycle of vibration or something. It's expressed as a alphabet capital T. These two frequency and wavelength are in inverse proportion relation.
 
- &fnof; &propto; <sup>1</sup>/<sub>&Tau;</sub>
+ <p align = "center"> &fnof; &propto; <sup>1</sup>/<sub>&Tau;</sub> </p>
 
  #### Amplitude, Sound pressure, Intensity
  In terms of physics, the amplitude can be said to be the amount of particles moving from a stationary state, and in a graphically expressed waveform, the height of the wave is represented.
@@ -41,7 +41,7 @@ Period which has a concept of time that complete one cycle of vibration or somet
 
  However, we are more interested in the propagation of sound pressure than the sound pressure itself. The force transmitted along the direction of the wave is called **intensity**, and its unit of measurement is Watt/m<sup>2</sup>.
 
- Intensity &propto; (sound pressure) <sup>2</sup>
+ <p align = "center"> Intensity &propto; (sound pressure) <sup>2</sup> </p>
 
  And the minimum intensity of sound is 10<sup>-16</sup> watt/cm<sup>2</sup>, which is converted to 20 &micro;Pa. This value is *absolute sound threshold*.
 
@@ -52,11 +52,11 @@ Watt/m<sup>2</sup> and Pa describe an unit of absolute amount of force. On the o
 
 The formula for producing this relative energy is as follows:
 
-dB = 10 log<sub>10</sub>(S<sub>1</sub>/S<sub>2</sub>)  *(where, S<sub>1</sub>, S<sub>2</sub> : Intensity)*
+<p align = "center"> dB = 10 log<sub>10</sub>(S<sub>1</sub>/S<sub>2</sub>)  *(where, S<sub>1</sub>, S<sub>2</sub> : Intensity)* </p>
 
 We already know about the relationship between intensity and sound pressure. In a graphically expressed sound pressure along time line, the height of the waveform is amplitude. So, we can easily guess the following relationship.
 
-dB = 10 log<sub>10</sub>(S<sub>1</sub>/S<sub>2</sub>) = 10 log<sub>10</sub>(A<sub>1</sub><sup>2</sup>/A<sub>2</sub><sup>2</sup>) = 20 log<sub>10</sub>(A<sub>1</sub>/A<sub>2</sub>)
+<p align = "center"> dB = 10 log<sub>10</sub>(S<sub>1</sub>/S<sub>2</sub>) = 10 log<sub>10</sub>(A<sub>1</sub><sup>2</sup>/A<sub>2</sub><sup>2</sup>) = 20 log<sub>10</sub>(A<sub>1</sub>/A<sub>2</sub>) </p>
 
 That's why we use 20 to express when parameter is amplitude. It's from the fact that `Intensity is unit of energy per square measure, and amplitude in sound express unit of pressure which is unit of force per squre measure.`
 
