@@ -15,15 +15,16 @@
 ### CONTENT
 
 1. **Orientation**
-2. **DSP review**
-3. **Fundamental artificial theory**
-4. **Neural network theory and Utilization technique**
-5. **Speech signal expression technique**
-6. **LPC model and Cepstrum**
-7. **Speech Recognition Theory**
-8. **Neural network based speech recognition**
-9. **Acoustic theory and Auditory theory**
-10. **3D Audio**
+2. **Sound**
+3. **DSP review**
+4. **Fundamental artificial theory**
+5. **Neural network theory and Utilization technique**
+6. **Speech signal expression technique**
+7. **LPC model and Cepstrum**
+8. **Speech Recognition Theory**
+9. **Neural network based speech recognition**
+10. **Acoustic theory and Auditory theory**
+11. **3D Audio**
 
 ### ASSIGNMENTS
 
