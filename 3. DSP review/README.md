@@ -24,6 +24,8 @@ Sampling is multiplication with signals and impulse train with sampling period T
 There are helpful notes to make you understand more clearly in the `pdf folder`.
 
 ## DFT Notes (N-Point)
+Following pages are personal notes. If you find something wrong, please make an issue in github. Conclusion of DFT is that it has to take N positive integer point which is resolution of frequency. Then selected points get a convolution with basic signal represented with N and k. In the pdf, `k` means resolution of frequency. For example, if our sampling frequency is 8,000Hz and we take 100 point DFT, this frequency resolution of DFT is going to be 80Hz.  
+  
 <p align="center"><img src="./img/AI_speech_3주차-01.jpg"></img></p>
 <p align="center"><img src="./img/AI_speech_3주차-03.jpg"></img></p>
 <p align="center"><img src="./img/AI_speech_3주차-04.jpg"></img></p>
@@ -31,6 +33,9 @@ There are helpful notes to make you understand more clearly in the `pdf folder`.
 <p align="center"><img src="./img/AI_speech_3주차-06.jpg"></img></p>
 <p align="center"><img src="./img/AI_speech_3주차-07.jpg"></img></p>
 <p align="center"><img src="./img/AI_speech_3주차-08.jpg"></img></p>
+
+## Short-Time Fourier Transform
+
 
 
 ## Reference

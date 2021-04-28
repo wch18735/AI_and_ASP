@@ -1,5 +1,4 @@
 # Orientation
-----
 ## <span style="color: blue;">Speech / Audio / Sound Characteristics</span>
 
 ### Broadcasting / Communication / Entertainment Core Technology 
