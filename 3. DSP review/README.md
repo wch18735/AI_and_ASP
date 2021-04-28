@@ -35,9 +35,21 @@ Following pages are personal notes. If you find something wrong, please make an 
 <p align="center"><img src="./img/AI_speech_3주차-08.jpg"></img></p>
 
 ## Short-Time Fourier Transform
+Fourier transform is infinitive integration. Obviously, spectral magintude show just average of total signal frequency response. Only phase provides time varying characteristic. But audio or speech signal have information per unit time or regular time, not over all signal. This is why we need segmented specturm for comparing it with previous or next spectrum one by one.  
+But If we cut some interval in signal off, it raise rapid change edge of boundary, called boundary effet. This effect cause spectrum distortion. To prevent this situation, we usually use window function to that interval. Example is as following.  
+ ![window_function](./img/window_function.jpg)  
+There are many kind of windows (rectangular, hamming, hanning, blackman, sine, cosine). Spectrum of windows depends on kind of window. Following figure shows terms about window spectrum. Sidelobe means difference between peak to next peak in dB scale. Mainlobe is certain first baulked point.  
+![spectrum_of_window](./img/spectrum_of_window.jpg)  
+You can infer from above figure that strong sidelobe and mainlobe would make distortion in some case as follows.  
+![distortion_of_window](./img/distortion_of_window.jpg)  
+Finally, signal segment segmented with regular interval, which is window length, is covered by window and transformed. And this process is repeated moving next segment as far as stride with overlap. This overlap make distortion or loss of information by boundary effect down.
 
+## Spectrogram
+We've made short time fourier transform spectrums. Final process to make an spectrogram is gather all the spectrums along with horizontal axis. In this time, vertical axis is represented to magnitude of spectrums. you can easily infer that spectrogram has 3-dimensional tensors. Including spectrogram, there are a lot of feature of audio signal like mel-spectrogram, log-spectrogram, MFCC, etc. These features are going to be treated in other repo.  
+![spectrogram](./img/spectrogram.jpg)
 
 
 ## Reference
 - https://web.stanford.edu/class/ee179/lectures/notes11.pdf
 - https://lmb.informatik.uni-freiburg.de/lectures/old_lmb/bildverarbeitung/Exercise07/GibbsPhenomena.pdf
+- [Audio Signal Feature Extraction Process for Automatic Speech Recognition based on Deep Nueral Network (2020, Kwangwoon University)](./pdf/KW_bachelor's_thesis.pdf)
