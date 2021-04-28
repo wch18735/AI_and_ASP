@@ -1,8 +1,6 @@
 ## AI and Audio Signal Processing
-----
 
 ### SUMMARY
-----
 
 - This repository is for organizing lecture on 『Artificial Intelligence and Audio Signal Process』 by [Prof.Hochong Park](https://sites.google.com/view/csplab/members/professor)
 - Simple C programming assignments
