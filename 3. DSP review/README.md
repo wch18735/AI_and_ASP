@@ -48,7 +48,6 @@ Finally, signal segment segmented with regular interval, which is window length,
 We've made short time fourier transform spectrums. Final process to make an spectrogram is gather all the spectrums along with horizontal axis. In this time, vertical axis is represented to magnitude of spectrums. you can easily infer that spectrogram has 3-dimensional tensors. Including spectrogram, there are a lot of feature of audio signal like mel-spectrogram, log-spectrogram, MFCC, etc. These features are going to be treated in other repo.  
 ![spectrogram](./img/spectrogram.jpg)
 
-
 ## Reference
 - https://web.stanford.edu/class/ee179/lectures/notes11.pdf
 - https://lmb.informatik.uni-freiburg.de/lectures/old_lmb/bildverarbeitung/Exercise07/GibbsPhenomena.pdf
