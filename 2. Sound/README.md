@@ -1,5 +1,4 @@
 # Sound
-----
 
 ## Basic concept of the physics of sound
 I referenced most of information from [this paper](https://jkslp.org/upload/pdf/jkslp-22-2-99.pdf). If you are korean, it's very helpful to understand about what sound is, what is dB scale, what is unit of amplitude, etc.
