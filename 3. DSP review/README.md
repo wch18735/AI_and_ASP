@@ -18,7 +18,7 @@ As fourier transform is represented to correlation between x(t) and basis signal
 
 These are quite easily able to understand when you apply the x(t) to frequency domain. It would be explained that "If you want to get a signal at very right t<sub>0</sub> time, you need to sum all the frequencies over f-domain and coefficient of them individually". This interperetation is applied to X(f) in exactly same way.  
 Then what is DTFT? See a figure below.  
-![discrete](./img/conversion_discrete.jpg)
+![discrete](./img/conversion_discrete.JPG)
 Sampling is multiplication with signals and impulse train with sampling period T. And multiplication on time domain is transformed to convolution on frequency domain. This concepts are explained following figure.  
 ![discrete](./img/conversion_discrete_full.jpg)  
 There are helpful notes to make you understand more clearly in the `pdf folder`.
