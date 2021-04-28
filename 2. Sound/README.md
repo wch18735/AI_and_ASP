@@ -1,4 +1,4 @@
-# DSP Review
+# Sound
 ----
 
 ## Basic concept of the physics of sound
