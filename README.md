@@ -15,7 +15,7 @@
 1. **Orientation**
 2. **Sound**
 3. **DSP review**
-4. **Fundamental artificial theory**
+4. **Fundamental artificial intelligence theory**
 5. **Neural network theory and Utilization technique**
 6. **Speech signal expression technique**
 7. **LPC model and Cepstrum**
